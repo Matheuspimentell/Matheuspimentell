@@ -1,4 +1,4 @@
-<a href="#"><img width="75%" height="auto" src="https://i.ibb.co/1QzWXys/Pixel-art-eu.png" align="middle" height="175px"/></a>
+<a href="#"><img width="50%" height="auto" src="https://i.ibb.co/1QzWXys/Pixel-art-eu.png" align="middle" height="175px"/></a>
 
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Eu sou o Pimentel</h1>
 <h3 align="center">Sou um Game Designer/Developer apaixonado por games desde criança.</h3>
