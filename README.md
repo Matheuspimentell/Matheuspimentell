@@ -8,15 +8,15 @@
 
 - 🔭 Atualmente cursando **[Engenharia de Software](https://fga.unb.br/software)** na Universidade de Brasília
 
-- 🌱 Atualmente aprendendo **Unreal Engine 4.**
+- 🌱 Atualmente estudando **Desenvolvimento de games**.
 
 - 👯 Quero colaborar com **Equipes de desenvolvimento de games**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis no **[Meu Portfolio](https://Matheuspleal.github.io)**
+- 👨‍💻 Todos os meus projetos estão disponíveis no **[Meu Portfolio](https://Matheuspleal.github.io)**.
 
-- 📫 Entre em contato comigo -> **matheusp.eng@gmail.com**
+- 📫 Entre em contato comigo -> **matheusp.eng@gmail.com**.
 
-- ⚡ Fun fact **Sou apaixonado por games, animes, cães e gatos**
+- ⚡ Fun fact **Sou apaixonado por games, animes, cães e gatos**.
 
 ## 🚀 Linguagens e ferramentas:
 
