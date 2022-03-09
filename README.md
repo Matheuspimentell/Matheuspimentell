@@ -27,7 +27,8 @@
     <a href="https://docs.microsoft.com/pt-br/cpp/cpp/?view=msvc-160" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/c-sharp-logo.png"/>
     <a href="https://docs.microsoft.com/en-us/cpp/c-language/?view=msvc-160" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a> 
-    <a href="https://www.lua.org/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/moon.png"/> </a> 
+    <a href="https://www.lua.org/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/moon.png"/> </a>
+    <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a>
     <a href="https://www.java.com/pt-BR/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
 </p>
