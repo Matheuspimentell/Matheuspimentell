@@ -12,7 +12,7 @@
 
 - 👯 Quero colaborar com **Equipes de desenvolvimento de games**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis no **[Meu Portfolio](https://Matheuspleal.github.io)**.
+- 👨‍💻 Todos os meus projetos estão disponíveis no **[Meu Portfolio](https://Matheuspleal.github.io)**. **(Sob reestilização)**
 
 - 📫 Entre em contato comigo -> **matheusp.eng@gmail.com**.
 
