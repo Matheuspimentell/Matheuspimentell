@@ -1,4 +1,4 @@
-<p align="middle"><img width="50%" height="auto" src="https://i.ibb.co/1QzWXys/Pixel-art-eu.png" height="175px" /></p>
+<p align="middle"><img width="50%" height="auto" src="./me-cape.svg" height="175px" /></p>
 
 <h1 align="center"><img src="./ola.gif" width="40px">, Eu sou o Pimentel</h1>
 <h3 align="center">Sou um Game Designer/Developer apaixonado por games desde criança.</h3>
