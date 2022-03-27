@@ -21,10 +21,8 @@
 ## 🚀 Linguagens e ferramentas:
 
 <p align="left"> 
-    <a href="https://www.unrealengine.com/en-US/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/unreal-engine.png"/> </a>
     <a href="https://unity.com/pt" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/unity.png"/> </a>
-    <a href="https://www.adobe.com/br/products/photoshop/landpa.html?sdid=KQPOM&mv=search&ef_id=CjwKCAjwjdOIBhA_EiwAHz8xmy_pi28feOcVsRRuKiWIx7N9onsnXBBzlzXbBOvsSQG6I36NCm8oBhoCc0gQAvD_BwE:G:s&s_kwcid=AL!3085!3!534509111515!e!!g!!photoshop!188192502!10077842982&gclid=CjwKCAjwjdOIBhA_EiwAHz8xmy_pi28feOcVsRRuKiWIx7N9onsnXBBzlzXbBOvsSQG6I36NCm8oBhoCc0gQAvD_BwE" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/> </a>
-    <a href="https://docs.microsoft.com/pt-br/cpp/cpp/?view=msvc-160" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
+    <a href="https://www.aseprite.org/" target="_blank"> <img src="https://img.icons8.com/dusk/64/000000/aseprite.png"/> </a>
     <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/c-sharp-logo.png"/>
     <a href="https://docs.microsoft.com/en-us/cpp/c-language/?view=msvc-160" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a> 
     <a href="https://www.lua.org/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/moon.png"/> </a>
