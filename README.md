@@ -8,7 +8,7 @@
 
 - 🔭 Atualmente cursando **[Engenharia de Software](https://fga.unb.br/software)** na Universidade de Brasília
 
-- 🌱 Atualmente estudando **Desenvolvimento de games**.
+- 🌱 Atualmente estudando **Desenvolvimento web**.
 
 - 👯 Quero colaborar com **Equipes de desenvolvimento de games**
 
