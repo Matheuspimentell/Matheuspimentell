@@ -22,7 +22,7 @@
 
 <p align="left"> 
     <a href="https://unity.com/pt" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/unity.png"/> </a>
-    <a href="https://www.aseprite.org/" target="_blank"> <img src="https://img.icons8.com/dusk/64/000000/aseprite.png"/> </a>
+    <a href="https://www.aseprite.org/" target="_blank"> <img width='50vw' src="https://img.icons8.com/dusk/64/000000/aseprite.png"/> </a>
     <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/c-sharp-logo.png"/>
     <a href="https://docs.microsoft.com/en-us/cpp/c-language/?view=msvc-160" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a> 
     <a href="https://www.lua.org/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/moon.png"/> </a>
