@@ -38,21 +38,8 @@
 </p>
 
 ## 📊  Minhas estatísticas no GitHub
-
-  <br/>
-    <a href="https://github.com/Matheuspleal/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Matheuspleal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Matheuspleal/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuspleal&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Nota:</b> As estatísticas de linguagens mais utilizadas somente refletem os dados gerados por meus repositórios públicos, e não possuem correlação com nível de habilidade ou de experiência com as mesmas.
-
-
-<br/>
-<br/>
-
-<a href="https://github.com/Matheuspleal/github-readme-activity-graph"><img alt="Matheus Pimentel Leal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Matheuspleal&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
+    
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuspleal&count_private=true&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Entre em contato comigo:
 <p align="left">
