@@ -20,15 +20,13 @@
 
 ## 🚀 Linguagens e ferramentas:
 
-<p align="left"> 
-    <a href="https://unity.com/pt" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/unity.png"/> </a>
-    <a href="https://www.aseprite.org/" target="_blank"> <img width='50vw' src="https://img.icons8.com/dusk/64/000000/aseprite.png"/> </a>
-    <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/c-sharp-logo.png"/>
-    <a href="https://docs.microsoft.com/en-us/cpp/c-language/?view=msvc-160" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a> 
-    <a href="https://www.lua.org/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/moon.png"/> </a>
-    <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a>
-    <a href="https://www.java.com/pt-BR/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+<p align="center"> 
+    <a href="https://unity.com/pt" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/unity.png"/></a>
+    <a href="https://www.aseprite.org/" target="_blank"><img width='50vw' src="https://img.icons8.com/dusk/64/000000/aseprite.png"/></a>
+    <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img src="https://img.icons8.com/color/50/000000/c-sharp-logo.png"/></a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+    <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
 </p>
 
 <br/>
