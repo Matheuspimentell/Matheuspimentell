@@ -29,17 +29,18 @@
     <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
 </p>
 
-<br/>
+## 📊  Minhas estatísticas no GitHub
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=matheuspleal&count_private=true&show_icons=true&theme=aura"/>
+    </a>
+</p>
 
 <p align="center">
     <a href="https://github.com/Matheuspleal/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Matheus Pimentel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Matheuspleal&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-
-## 📊  Minhas estatísticas no GitHub
-    
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuspleal&count_private=true&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Entre em contato comigo:
 <p align="left">
