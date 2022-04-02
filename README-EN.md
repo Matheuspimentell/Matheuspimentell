@@ -1,3 +1,11 @@
+## 🇧🇷 🇺🇸 Translations
+<p align="center">
+    <a href="./README.md" target="_blank"><img src="https://img.icons8.com/color/48/000000/brazil.png"/></a>
+    <a href="./README-EN.md" target="_blank"><img src="https://img.icons8.com/color/48/000000/usa.png"/></a>
+</p>
+
+---
+
 <p align="middle"><img width="35%" height="auto" src="./me-cape.svg" height="175px" /></p>
 
 <h1 align="center"><img src="./ola.gif" width="40px">, My name is Matheus Pimentel Leal</h1>
