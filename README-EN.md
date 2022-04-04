@@ -20,7 +20,7 @@
 
 - 👯 I want to collaborate with **game development teams**
 
-- 👨‍💻 All of my projects are available at **[my Portfolio](https://Matheuspleal.github.io)**. **(Under restyling)**
+- 👨‍💻 All of my projects are available on **[my Portfolio](https://Matheuspleal.github.io)**. **(Under restyling)**
 
 - 📫 Contact me -> **matheusp.eng@gmail.com**.
 
