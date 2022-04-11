@@ -1,5 +1,7 @@
 # Olá 👋, Eu sou o pimentel!
 
+[English Ver.](./README-EN.md)
+
 <img align="right" width=300px alt="Squirtle" src="https://c.tenor.com/WrTwcT_tE20AAAAi/cute-happy.gif" />
 
 ## <img src="https://c.tenor.com/DGtiZRxsp2QAAAAi/how-question.gif" width="60px">&nbsp;***Sobre mim***
