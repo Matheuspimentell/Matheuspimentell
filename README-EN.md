@@ -9,7 +9,7 @@
 <p align="middle"><img width="35%" height="auto" src="./me-cape.svg" height="175px" /></p>
 
 <h1 align="center"><img src="./ola.gif" width="40px">, My name is Matheus Pimentel Leal</h1>
-<h3 align="center">I'm a Game Designer/Developer that has been in love with games since childhood.</h3>
+<h3 align="center">I'm a software engineering student.</h3>
 
 
 ## 🙋‍♂️ About me
