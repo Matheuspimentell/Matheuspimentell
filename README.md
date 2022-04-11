@@ -9,7 +9,7 @@
 <p align="middle"><img width="35%" height="auto" src="./me-cape.svg" height="175px" /></p>
 
 <h1 align="center"><img src="./ola.gif" width="40px">, Eu sou o Pimentel</h1>
-<h3 align="center">Sou um Game Designer/Developer apaixonado por games desde criança.</h3>
+<h3 align="center">Sou estudante de engenharia de software.</h3>
 
 
 ## 🙋‍♂️ Sobre mim
