@@ -35,10 +35,10 @@ Estudante de engenharia de software na Universidade de Brasília - UnB.
 <div>
     <p align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api?username=matheuspleal&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"/>
+            <img width='45%' src="https://github-readme-stats.vercel.app/api?username=matheuspleal&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"/>
         </a>
         <a href="https://github.com/Matheuspleal/github-readme-streak-stats">
-            <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Matheus Pimentel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Matheuspleal&theme=tokyonight&hide_border=true&stroke=0000&background=060A0CD0"/>
+            <img width='45%' title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Matheus Pimentel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Matheuspleal&theme=tokyonight&hide_border=true&stroke=0000&background=060A0CD0"/>
         </a>
     </p>
 </div>
