@@ -2,9 +2,9 @@
 
 [Versão em português.](./README.md)
 
-<img align="right" width=300px alt="Squirtle" src="https://c.tenor.com/WrTwcT_tE20AAAAi/cute-happy.gif" />
+<img align="right" width=32% alt="Squirtle" src="https://c.tenor.com/WrTwcT_tE20AAAAi/cute-happy.gif" />
 
-## <img src="https://c.tenor.com/DGtiZRxsp2QAAAAi/how-question.gif" width="60px">&nbsp;***About me***
+## <img src="https://c.tenor.com/DGtiZRxsp2QAAAAi/how-question.gif" width="6%">&nbsp;***About me***
 
 Software Engineering student at University of Brasília - UnB. 
 - 💙 **My dream is to be a Game Designer. But i'm also interested in: Game Development, Web Design, Web Development, Mobile Design and Mobile Development.**
