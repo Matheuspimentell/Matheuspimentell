@@ -24,6 +24,7 @@ Software Engineering student at University of Brasília - UnB.
     <a href="https://unity.com/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/unity.png"/></a>
     <a href="https://www.aseprite.org/" target="_blank"><img width='50vw' src="https://img.icons8.com/dusk/64/000000/aseprite.png"/></a>
     <a href="https://docs.microsoft.com/EN-us/dotnet/csharp/" target="_blank"><img src="https://img.icons8.com/color/50/000000/c-sharp-logo.png"/></a>
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
     <a href="https://developer.mozilla.org/EN-us/docs/Web/HTML" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
     <a href="https://developer.mozilla.org/EN-us/docs/Web/CSS" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
     <a href="https://developer.mozilla.org/EN-us/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></a>
