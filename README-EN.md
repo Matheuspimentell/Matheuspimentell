@@ -30,6 +30,9 @@ Software Engineering student at University of Brasília - UnB.
     <a href="https://developer.mozilla.org/EN-us/docs/Web/CSS" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
     <a href="https://developer.mozilla.org/EN-us/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></a>
     <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
+    <a href="https://www.adobe.com/br/products/illustrator.html" target="_blank"><img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/></a>
+    <a href="https://www.adobe.com/br/products/xd.html" target="_blank"><img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png"/></a>
+    <a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma--v1.png"/></a>
 </p>
 
 <h2>👀 My GitHub stats</h2>
