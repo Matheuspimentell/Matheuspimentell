@@ -9,12 +9,13 @@
 Software Engineering student at University of Brasília - UnB. 
 - 💙 **My dream is to be a Game Designer. But i'm also interested in: UX / UI, Game Development, Web Design, Web Development, Mobile Design and Mobile Development.**
 - 🌱 I'm currently Learning ...
+  - UX / UI
   - Javascript
   - Css
   - HTML
 - 👨‍🎓 I'm looking for my first internship!
 - ✔️ I'm Happy to answer questions and to contribute! If it is whitin my reach, don't hesitate to reach me!😉<br>
-- 💻 Outside Tech, 🎮 I love to game with my friends (🧔 Find me on steam: [Minerovzki](https://steamcommunity.com/id/Mineirin-so/)), 🖌️ I'm learning UX / UI Design, 🎵 I love to listen to music, 🐺 I have a husky called Bilbo (Just like on The Lord of The Rings) 🍿 And I love to watch movies and series in my spare time.
+- 💻 Outside Tech, 🎮 I love to game with my friends (🧔 Find me on steam: [Minerovzki](https://steamcommunity.com/id/Mineirin-so/)), 🖌️ I'm learning Pixel Art, 🎵 I love to listen to music, 🐺 I have a husky called Bilbo (Just like on The Lord of The Rings) 🍿 And I love to watch movies and series in my spare time.
 - 🖤💙 My favorite colors are blue and black.
 - 📫 Reach out to me at: <a href="matheusp.eng@gmail.com">matheusp.eng@gmail.com</a>
 
@@ -51,8 +52,9 @@ Software Engineering student at University of Brasília - UnB.
 
 ## 📣 Socials:
 <p align="center">
-    <a href="https://www.artstation.com/matheuspl"><img src="https://img.icons8.com/color/48/000000/artstation.png"/></a>
-    <a href="https://www.linkedin.com/in/matheus-pimentel-leal-a07a38172/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+    <a href="https://www.behance.net/matheusleal10"><img src="https://img.icons8.com/color-glass/48/000000/behance.png"/></a>
+    <a href="https://dribbble.com/Minerovzki"><img src="https://img.icons8.com/color-glass/48/000000/dribbble.png"/></a>
+    <a href="https://www.linkedin.com/in/matheuspleall"><img src="https://img.icons8.com/color-glass/48/000000/linkedin.png"/></a>
 </p>
 
 ## ❤ Views & Followers
