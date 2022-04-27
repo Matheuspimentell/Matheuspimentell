@@ -14,7 +14,7 @@ Estudante de engenharia de software na Universidade de Brasília - UnB.
   - HTML
 - 👨‍🎓 Estou em busca do meu primeiro estágio!
 - ✔️ Estou aberto à perguntas e propostas de contribuição! Se estiver ao meu alcance, basta entrar em contato!😉<br>
-- 💻 Fora da tecnologia, 🎮 Amo jogar com amigos (🧔 me encontre na steam: [Minerovzki](https://steamcommunity.com/id/Mineirin-so/)), 🖌️ Estou aprendendo UX / UI, 🎵 Sou apaixonado por música, 🐺 Sou dono de um Husky chamado Bilbo (Exatamente como no Senhor dos Anéis) 🍿 E amo ver filmes e séries no meu tempo livre.
+- 💻 Fora da tecnologia, 🎮 Amo jogar com amigos (🧔 me encontre na steam: [Minerovzki](https://steamcommunity.com/id/Mineirin-so/)), 🖌️ Estou aprendendo UX / UI Design, 🎵 Sou apaixonado por música, 🐺 Sou dono de um Husky chamado Bilbo (Exatamente como no Senhor dos Anéis) 🍿 E amo ver filmes e séries no meu tempo livre.
 - 🖤💙 Minhas cores favoritas são Azul e Preto.
 - 📫 Entre em contato comigo: <a href="matheusp.eng@gmail.com">matheusp.eng@gmail.com</a>
 
