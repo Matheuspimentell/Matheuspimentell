@@ -9,12 +9,13 @@
 Estudante de engenharia de software na Universidade de Brasília - UnB. 
 - 💙 **Tenho o sonho de me tornar um Game Designer. porém, me interesso também pelas áreas de: UX / UI, Game Development, Web Design, Web Development, Mobile Design e Mobile Development.**
 - 🌱 Atualmente estou aprendendo ...
+  - UX / UI
   - Javascript
   - Css
   - HTML
 - 👨‍🎓 Estou em busca do meu primeiro estágio!
 - ✔️ Estou aberto à perguntas e propostas de contribuição! Se estiver ao meu alcance, basta entrar em contato!😉<br>
-- 💻 Fora da tecnologia, 🎮 Amo jogar com amigos (🧔 me encontre na steam: [Minerovzki](https://steamcommunity.com/id/Mineirin-so/)), 🖌️ Estou aprendendo UX / UI Design, 🎵 Sou apaixonado por música, 🐺 Sou dono de um Husky chamado Bilbo (Exatamente como no Senhor dos Anéis) 🍿 E amo ver filmes e séries no meu tempo livre.
+- 💻 Fora da tecnologia, 🎮 Amo jogar com amigos (🧔 me encontre na steam: [Minerovzki](https://steamcommunity.com/id/Mineirin-so/)), 🖌️ Estou aprendendo Pixel Art, 🎵 Sou apaixonado por música, 🐺 Sou dono de um Husky chamado Bilbo (Exatamente como no Senhor dos Anéis) 🍿 E amo ver filmes e séries no meu tempo livre.
 - 🖤💙 Minhas cores favoritas são Azul e Preto.
 - 📫 Entre em contato comigo: <a href="matheusp.eng@gmail.com">matheusp.eng@gmail.com</a>
 
@@ -51,8 +52,9 @@ Estudante de engenharia de software na Universidade de Brasília - UnB.
 
 ## 📣 Redes sociais:
 <p align="center">
-    <a href="https://www.artstation.com/matheuspl"><img src="https://img.icons8.com/color/48/000000/artstation.png"/></a>
-    <a href="https://www.linkedin.com/in/matheus-pimentel-leal-a07a38172/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+    <a href="https://www.behance.net/matheusleal10"><img src="https://img.icons8.com/color-glass/48/000000/behance.png"/></a>
+    <a href="https://dribbble.com/Minerovzki"><img src="https://img.icons8.com/color-glass/48/000000/dribbble.png"/></a>
+    <a href="https://www.linkedin.com/in/matheuspleall"><img src="https://img.icons8.com/color-glass/48/000000/linkedin.png"/></a>
 </p>
 
 ## ❤ Views & Followers
