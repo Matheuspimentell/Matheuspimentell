@@ -14,7 +14,7 @@ Software Engineering student at University of Brasília - UnB.
   - HTML
 - 👨‍🎓 I'm looking for my first internship!
 - ✔️ I'm Happy to answer questions and to contribute! If it is whitin my reach, don't hesitate to reach me!😉<br>
-- 💻 Outside Tech, 🎮 I love to game with my friends (🧔 Find me on steam: [Minerovzki](https://steamcommunity.com/id/Mineirin-so/)), 🖌️ I'm learning pixel art, 🎵 I love to listen to music, 🐺 I have a husky called Bilbo (Just like on The Lord of The Rings) 🍿 And I love to watch movies and series in my spare time.
+- 💻 Outside Tech, 🎮 I love to game with my friends (🧔 Find me on steam: [Minerovzki](https://steamcommunity.com/id/Mineirin-so/)), 🖌️ I'm learning UX / UI, 🎵 I love to listen to music, 🐺 I have a husky called Bilbo (Just like on The Lord of The Rings) 🍿 And I love to watch movies and series in my spare time.
 - 🖤💙 My favorite colors are blue and black.
 - 📫 Reach out to me at: <a href="matheusp.eng@gmail.com">matheusp.eng@gmail.com</a>
 
