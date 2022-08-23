@@ -3,7 +3,7 @@
 [English Ver.](./README-EN.md)
 
 <div align="center">
-  <img width=50% alt="Squirtle" src="https://c.tenor.com/WrTwcT_tE20AAAAi/cute-happy.gif" />
+  <img width="15%" alt="Squirtle" src="https://c.tenor.com/WrTwcT_tE20AAAAi/cute-happy.gif" />
 </div>
 
 ## ***Sobre mim***
