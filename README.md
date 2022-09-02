@@ -12,9 +12,10 @@ Estudante de engenharia de software na Universidade de Brasília - UnB.
 - 💙 **Tenho o sonho de me tornar um Game Designer. porém, me interesso também pelas áreas de: UX / UI, Game Development, Web Design, Web Development, Mobile Design e Mobile Development.**
 - 🌱 Atualmente estou aprendendo ...
   - UX / UI
-  - Javascript
+  - Typescript
   - Css
   - HTML
+  - SQL
 - 👨‍🎓 Estou em busca do meu primeiro estágio!
 - ✔️ Estou aberto à perguntas e propostas de contribuição! Se estiver ao meu alcance, basta entrar em contato!😉<br>
 - 💻 Fora da tecnologia, 🎮 Amo jogar com amigos (🧔 me encontre na steam: [Minerovzki](https://steamcommunity.com/id/Mineirin-so/)), 🖌️ Estou aprendendo Pixel Art, 🎵 Sou apaixonado por música, 🐺 Sou dono de um Husky chamado Bilbo (Exatamente como no Senhor dos Anéis) 🍿 E amo ver filmes e séries no meu tempo livre.
