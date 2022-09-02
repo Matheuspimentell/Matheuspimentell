@@ -12,7 +12,7 @@ Software Engineering student at University of Brasília - UnB.
 - 💙 **My dream is to be a Game Designer. But i'm also interested in: UX / UI, Game Development, Web Design, Web Development, Mobile Design and Mobile Development.**
 - 🌱 I'm currently Learning ...
   - UX / UI
-  - Javascript
+  - Typescript
   - Css
   - HTML
 - 👨‍🎓 I'm looking for my first internship!
