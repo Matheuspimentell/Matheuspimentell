@@ -31,6 +31,7 @@ Estudante de engenharia de software na Universidade de Brasília - UnB.
     <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
     <a href="https://developer.mozilla.org/EN-us/docs/Web/HTML" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
     <a href="https://developer.mozilla.org/EN-us/docs/Web/CSS" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+    <a href="https://deno.land/" target="_blank"><img src="https://img.icons8.com/color/48/000000/deno.png"/></a>
     <a href="https://developer.mozilla.org/EN-us/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></a>
     <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
     <a href="https://www.adobe.com/br/products/illustrator.html" target="_blank"><img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/></a>
