@@ -11,11 +11,10 @@
 Software Engineering student at University of Brasília - UnB. 
 - 💙 **My dream is to be a Game Designer. But i'm also interested in: UX / UI, Game Development, Web Design, Web Development, Mobile Design and Mobile Development.**
 - 🌱 I'm currently Learning ...
-  - UX / UI
   - Typescript
   - Css
   - HTML
-  - SQL
+  - Flutter & Dart
 - 👨‍🎓 I'm looking for my first internship!
 - ✔️ I'm Happy to answer questions and to contribute! If it is whitin my reach, don't hesitate to reach me!😉<br>
 - 💻 Outside Tech, 🎮 I love to game with my friends (🧔 Find me on steam: [Minerovzki](https://steamcommunity.com/id/Mineirin-so/)), 🖌️ I'm learning Pixel Art, 🎵 I love to listen to music, 🐺 I have a husky called Bilbo (Just like on The Lord of The Rings) 🍿 And I love to watch movies and series in my spare time.
@@ -33,8 +32,9 @@ Software Engineering student at University of Brasília - UnB.
     <a href="https://developer.mozilla.org/EN-us/docs/Web/HTML" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
     <a href="https://developer.mozilla.org/EN-us/docs/Web/CSS" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
     <a href="https://deno.land/" target="_blank"><img src="https://img.icons8.com/color/48/000000/deno.png"/></a>
-    <a href= "https://flutter.dev" target="_blank"><img src="https://img.icons8.com/color/48/null/flutter.png"/></a>
     <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
+    <a href= "https://flutter.dev" target="_blank"><img src="https://img.icons8.com/color/48/null/flutter.png"/></a>
+    <a href= "https://dart.dev" target="_blank"><img src="https://img.icons8.com/color/48/null/dart.png"/></a>
     <a href="https://www.adobe.com/br/products/illustrator.html" target="_blank"><img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/></a>
     <a href="https://www.adobe.com/br/products/xd.html" target="_blank"><img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png"/></a>
     <a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma--v1.png"/></a>
