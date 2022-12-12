@@ -9,7 +9,7 @@
 ## ***Sobre mim***
 
 Estudante de engenharia de software na Universidade de Brasília - UnB. 
-- 💙 **Tenho o sonho de me tornar um Game Designer. porém, me interesso também pelas áreas de: UX / UI, Game Development, Web Design, Web Development, Mobile Design e Mobile Development.**
+- 💙 **Tenho o sonho de me tornar um Game Developer. porém, me interesso também pelas áreas de: UX / UI, Game Development, Web Design, Web Development, Mobile Design e Mobile Development.**
 - 🌱 Atualmente estou aprendendo ...
   - Typescript
   - Css
