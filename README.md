@@ -33,10 +33,10 @@ Estudante de engenharia de software na Universidade de Brasília - UnB.
     <a href="https://developer.mozilla.org/EN-us/docs/Web/CSS" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
     <a href="https://deno.land/" target="_blank"><img src="https://img.icons8.com/color/48/000000/deno.png"/></a>
     <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
-    <a href= "https://flutter.dev" target="_blank"><img src="https://img.icons8.com/color/48/null/flutter.png"/></a>
-    <a href= "https://dart.dev" target="_blank"><img src="https://img.icons8.com/color/48/null/dart.png"/></a>
-    <a href="https://www.adobe.com/br/products/illustrator.html" target="_blank"><img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/></a>
-    <a href="https://www.adobe.com/br/products/xd.html" target="_blank"><img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png"/></a>
+    <a href="https://flutter.dev" target="_blank"><img src="https://img.icons8.com/color/48/null/flutter.png"/></a>
+    <a href="https://dart.dev" target="_blank"><img src="https://img.icons8.com/color/48/null/dart.png"/></a>
+    <a href="https://www.ruby-lang.org/" target="_blank"><img src="https://img.icons8.com/color/48/null/ruby-programming-language.png"/></a>
+    <a href="https://rubyonrails.org/" target="_blank"><img src="https://img.icons8.com/windows/32/000000/ruby-on-rails.png"/></a>
     <a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma--v1.png"/></a>
 </p>
 
