@@ -11,13 +11,10 @@
 Estudante de engenharia de software na Universidade de Brasília - UnB. 
 - 💙 **Tenho o sonho de me tornar um Game Designer. porém, me interesso também pelas áreas de: UX / UI, Game Development, Web Design, Web Development, Mobile Design e Mobile Development.**
 - 🌱 Atualmente estou aprendendo ...
-  - Typescript
-  - Css
-  - HTML
-  - Flutter & Dart
-- 👨‍🎓 Estou em busca do meu primeiro estágio!
+  - Unreal Engine 5 e Unity
+- 👨‍🎓 Estagiário em Eng. de software @spezi
 - ✔️ Estou aberto à perguntas e propostas de contribuição! Se estiver ao meu alcance, basta entrar em contato!😉<br>
-- 💻 Fora da tecnologia, 🎮 Amo jogar com amigos (🧔 me encontre na steam: [Minerovzki](https://steamcommunity.com/id/Mineirin-so/)), 🖌️ Estou aprendendo Pixel Art, 🎵 Sou apaixonado por música, 🐺 Sou dono de um Husky chamado Bilbo (Exatamente como no Senhor dos Anéis) 🍿 E amo ver filmes e séries no meu tempo livre.
+- 💻 Além da tecnologia, 🎮 Amo jogar com amigos (🧔 me encontre na steam: [Minerovzki](https://steamcommunity.com/id/Mineirin-so/)), 🖌️ Estou aprendendo Pixel Art, 🎵 Sou apaixonado por música, 🐺 Sou dono de um Husky chamado Bilbo (Exatamente como no Senhor dos Anéis) 🍿 E amo ver filmes, séries e animes no meu tempo livre.
 - 🖤💙 Minhas cores favoritas são Azul e Preto.
 - 📫 Entre em contato comigo: <a href="matheusp.eng@gmail.com">matheusp.eng@gmail.com</a>
 
@@ -25,13 +22,11 @@ Estudante de engenharia de software na Universidade de Brasília - UnB.
 
 <p align="center"> 
     <a href="https://unity.com/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/unity.png"/></a>
+    <a href="https://www.unrealengine.com/en-US/unreal-engine-5" target="_blank"><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/unreal-engine.png" alt="unreal-engine"/></a>
     <a href="https://www.aseprite.org/" target="_blank"><img width='50vw' src="https://img.icons8.com/dusk/64/000000/aseprite.png"/></a>
     <a href="https://docs.microsoft.com/EN-us/dotnet/csharp/" target="_blank"><img src="https://img.icons8.com/color/50/000000/c-sharp-logo.png"/></a>
     <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
     <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
-    <a href="https://developer.mozilla.org/EN-us/docs/Web/HTML" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
-    <a href="https://developer.mozilla.org/EN-us/docs/Web/CSS" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
-    <a href="https://deno.land/" target="_blank"><img src="https://img.icons8.com/color/48/000000/deno.png"/></a>
     <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
     <a href="https://flutter.dev" target="_blank"><img src="https://img.icons8.com/color/48/null/flutter.png"/></a>
     <a href="https://dart.dev" target="_blank"><img src="https://img.icons8.com/color/48/null/dart.png"/></a>
