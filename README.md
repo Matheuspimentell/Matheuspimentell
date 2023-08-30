@@ -1,4 +1,4 @@
-# Olá 👋, Eu sou o pimentel!
+# Olá 👋, Eu sou o Pimentel!
 
 [English Ver.](./README-EN.md)
 
