@@ -1,21 +1,21 @@
-# Olá 👋, Eu sou o Pimentel!
+# Hi there 👋, Pimentel here!
 
-[English Ver.](./README-EN.md)
+[Versão em português.](./README-PTBR.md)
 
 <div align="center">
   <img width="15%" alt="Squirtle" src="https://c.tenor.com/WrTwcT_tE20AAAAi/cute-happy.gif" />
 </div>
 
-## ***Sobre mim***
+## ***About me***
 
-Estudante de engenharia de software na Universidade de Brasília - UnB. 
-- 💙 **Engenharia de software é a minha paixão**
-- ✔️ Estou aberto à perguntas e propostas de contribuição! Se estiver ao meu alcance, basta entrar em contato!😉<br>
-- 💻 Além da tecnologia, 🎮 Amo jogar com amigos (🧔 me encontre na steam: [Minerovzki](https://steamcommunity.com/id/Mineirin-so/)), 🖌️ Estou aprendendo Pixel Art, 🎵 Sou apaixonado por música, 🐺 Sou dono de um Husky chamado Bilbo (Exatamente como no Senhor dos Anéis) 🍿 E amo ver filmes, séries e animes no meu tempo livre.
-- 🖤💙 Minhas cores favoritas são Azul e Preto.
-- 📫 Entre em contato comigo: <a href="matheusp.eng@gmail.com">matheusp.eng@gmail.com</a>
+Software Engineering student at University of Brasília - UnB. 
+- 💙 **Software Engineering is my passion**
+- ✔️ I'm Happy to answer questions and to contribute! If it is whitin my reach, don't hesitate to reach me!😉<br>
+- 💻 Outside Tech, 🎮 I love to game with my friends (🧔 Find me on steam: [Minerovzki](https://steamcommunity.com/id/Mineirin-so/)), 🖌️ I'm learning Pixel Art, 🎵 I love to listen to music, 🐺 I have a husky called Bilbo (Just like on The Lord of The Rings) 🍿 And I love to watch movies, series and anime in my spare time.
+- 🖤💙 My favorite colors are blue and black.
+- 📫 Reach out to me at: <a href="matheusp.eng@gmail.com">matheusp.eng@gmail.com</a>
 
-## 🧠 Ferramentas e linguagens de programação:
+## 🧠 Tools and programming languages:
 
 <p align="center"> 
     <a href="https://unity.com/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/unity.png"/></a>
@@ -32,21 +32,21 @@ Estudante de engenharia de software na Universidade de Brasília - UnB.
     <a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma--v1.png"/></a>
 </p>
 
-<h2>👀 Minhas estatísticas do GitHub</h2>
+<h2>👀 My GitHub stats</h2>
 
 <div>
     <p align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img width='48%' src="https://github-readme-stats.vercel.app/api?username=matheuspleal&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=matheuspleal&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"/>
         </a>
         <a href="https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/docs/themes/README.md">
-            <img width='48%' title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Matheus Pimentel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Matheuspleal&theme=tokyonight&hide_border=true&stroke=0000"/>
+            <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Matheus Pimentel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Matheuspleal&theme=tokyonight&hide_border=true&stroke=0000"/>
         </a>
     </p>
 </div>
 
 
-## 📣 Redes sociais:
+## 📣 Socials:
 <p align="center">
     <a href="https://www.behance.net/matheusleal10"><img src="https://img.icons8.com/color-glass/48/000000/behance.png"/></a>
     <a href="https://dribbble.com/Minerovzki"><img src="https://img.icons8.com/color-glass/48/000000/dribbble.png"/></a>
