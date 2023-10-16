@@ -9,10 +9,7 @@
 ## ***About me***
 
 Software Engineering student at University of Brasília - UnB. 
-- 💙 **My dream is to be a Game Designer. But i'm also interested in: UX / UI, Game Development, Web Design, Web Development, Mobile Design and Mobile Development.**
-- 🌱 I'm currently Learning ...
-  - Unreal Engine 5 & Unity
-- 👨‍🎓 Software Enginnering Inter @spezi
+- 💙 **Software Engineering is my passion**
 - ✔️ I'm Happy to answer questions and to contribute! If it is whitin my reach, don't hesitate to reach me!😉<br>
 - 💻 Outside Tech, 🎮 I love to game with my friends (🧔 Find me on steam: [Minerovzki](https://steamcommunity.com/id/Mineirin-so/)), 🖌️ I'm learning Pixel Art, 🎵 I love to listen to music, 🐺 I have a husky called Bilbo (Just like on The Lord of The Rings) 🍿 And I love to watch movies, series and anime in my spare time.
 - 🖤💙 My favorite colors are blue and black.
