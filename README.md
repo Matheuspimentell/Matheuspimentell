@@ -3,7 +3,7 @@
 [Versão em português.](./README-PTBR.md)
 
 <div align="center">
-  <img width="15%" alt="Squirtle" src="https://c.tenor.com/WrTwcT_tE20AAAAi/cute-happy.gif" />
+  <img width="15%" alt="Squirtle" src="https://media.tenor.com/lr6evdW49pcAAAAi/totodile-pokemon.gif" />
 </div>
 
 ## ***About me***
