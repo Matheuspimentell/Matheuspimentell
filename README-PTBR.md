@@ -18,13 +18,14 @@ Estudante de engenharia de software na Universidade de Brasília - UnB.
 ## 🧠 Ferramentas e linguagens de programação:
 
 <p align="center"> 
-    <a href="https://unity.com/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/unity.png"/></a>
-    <a href="https://www.unrealengine.com/en-US/unreal-engine-5" target="_blank"><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/unreal-engine.png" alt="unreal-engine"/></a>
     <a href="https://www.aseprite.org/" target="_blank"><img width='50vw' src="https://img.icons8.com/dusk/64/000000/aseprite.png"/></a>
     <a href="https://docs.microsoft.com/EN-us/dotnet/csharp/" target="_blank"><img src="https://img.icons8.com/color/50/000000/c-sharp-logo.png"/></a>
     <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
     <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
     <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
+    <a href="https://nodejs.org/en" target="_blank"><img src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/></a>
+    <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/></a>
+    <a href="https://redis.io/" target="_blank"><img src="https://img.icons8.com/color/48/redis--v1.png" alt="redis--v1"/></a>
     <a href="https://flutter.dev" target="_blank"><img src="https://img.icons8.com/color/48/null/flutter.png"/></a>
     <a href="https://dart.dev" target="_blank"><img src="https://img.icons8.com/color/48/null/dart.png"/></a>
     <a href="https://www.ruby-lang.org/" target="_blank"><img src="https://img.icons8.com/color/48/null/ruby-programming-language.png"/></a>
