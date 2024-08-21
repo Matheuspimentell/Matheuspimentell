@@ -3,7 +3,7 @@
 [English Version](./README.md)
 
 <div align="center">
-  <img width="15%" alt="Squirtle" src="https://media.tenor.com/lr6evdW49pcAAAAi/totodile-pokemon.gif" />
+  <img width="15%" alt="Squirtle" src="./wartortle.gif" />
 </div>
 
 ## ***Sobre mim***
