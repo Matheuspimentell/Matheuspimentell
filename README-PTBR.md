@@ -19,17 +19,19 @@ Estudante de engenharia de software na Universidade de Brasília - UnB.
 
 <p align="center"> 
     <a href="https://www.aseprite.org/" target="_blank"><img width='50vw' src="https://img.icons8.com/dusk/64/000000/aseprite.png"/></a>
-    <a href="https://docs.microsoft.com/EN-us/dotnet/csharp/" target="_blank"><img src="https://img.icons8.com/color/50/000000/c-sharp-logo.png"/></a>
+    <a href="https://go.dev/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/golang.png" alt="golang"/></a>
+    <a href="https://www.rust-lang.org/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/rust-programming-language.png" alt="rust-programming-language"/></a>
     <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
     <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
     <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
     <a href="https://nodejs.org/en" target="_blank"><img src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/></a>
     <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/></a>
+    <a href="https://www.sqlite.org/" target="_blank"><img width="50" height="50" src="https://img.icons8.com/ios/50/sqlite.png" alt="sqlite"/></a>
     <a href="https://redis.io/" target="_blank"><img src="https://img.icons8.com/color/48/redis--v1.png" alt="redis--v1"/></a>
+    <a href="https://reactnative.dev/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/></a>
     <a href="https://flutter.dev" target="_blank"><img src="https://img.icons8.com/color/48/null/flutter.png"/></a>
     <a href="https://dart.dev" target="_blank"><img src="https://img.icons8.com/color/48/null/dart.png"/></a>
     <a href="https://www.ruby-lang.org/" target="_blank"><img src="https://img.icons8.com/color/48/null/ruby-programming-language.png"/></a>
-    <a href="https://rubyonrails.org/" target="_blank"><img src="https://img.icons8.com/windows/32/000000/ruby-on-rails.png"/></a>
     <a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma--v1.png"/></a>
 </p>
 
